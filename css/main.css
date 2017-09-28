@@ -1,6 +1,6 @@
 body 
 {
-    background:url("assets/images/bg-sakuratree.png");
+    background-image: url("../assets/images/bg-sakuratree.png");
     background-attachment: fixed;
 }
 nav ul, footer ul 
