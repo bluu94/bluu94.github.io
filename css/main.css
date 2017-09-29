@@ -1,4 +1,7 @@
-body {
+body 
+{
+	<!--background-image: url('../assets/images/bg-sakuratree.png');-->
+    <!--background-attachment: fixed;-->
     margin: 60px auto;
     width: 70%;
 }
