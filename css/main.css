@@ -6,34 +6,38 @@ body
 }
 <!--For margins: top, right, bottom, left-->
 
-.nav-container
+ul
 {
-    background-color: rgba(0, 0, 0, 1);
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
     overflow: hidden;
+    background-color: #333;
 }
 
-.nav-container a 
+li
 {
     float: left;
-    display: block;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
 }
 
-.nav-container a:hover 
+li a
 {
-    background-color: #ddd;
-    color: black;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px, 16px;
+    text-decoration: none;
+}
+li a:hover
+{
+    background-color: #111;
 }
 
-.nav-container a.active 
+.active
 {
     background-color: #4CAF50;
-    color: white;
 }
+
 .container
 {
     background-color: rgba(255, 255, 255, 1);
