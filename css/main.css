@@ -1,10 +1,10 @@
 body 
 {
     margin: 0;
-    <!--background-image: url('../assets/images/bg-sakuratree.png');-->
-    <!--background-attachment: fixed;-->
+    <!-- background-image: url('../assets/images/bg-sakuratree.png'); -->
+    <!-- background-attachment: fixed; -->
 }
-<!--For margins: top, right, bottom, left-->
+<!-- For margins: top, right, bottom, left -->
 
 ul {
     list-style-type: none;
