@@ -10,8 +10,8 @@ body
 
 div.nav-container
 {
-    background-color: #333;
     overflow: hidden;
+    background-color: #333;
 }
 
 div.nav-container a 
