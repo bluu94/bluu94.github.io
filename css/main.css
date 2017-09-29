@@ -54,6 +54,7 @@ p
 .footer-container
 {
     position: absolute;
+    padding-bottom:20px;
     width: 100%;
     background-color: rgba(106,115,124,1);
     color: white;
