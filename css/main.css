@@ -10,7 +10,7 @@ div.nav-container
 {
     margin-top: -8px
     background-color: rgba(0, 0, 0, 1);
-    overflow: hidden;
+    overflow: auto;
 }
 
 div.nav-container a 
