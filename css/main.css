@@ -1,9 +1,8 @@
 body 
 {
+    margin: 0;
     <!--background-image: url('../assets/images/bg-sakuratree.png');-->
     <!--background-attachment: fixed;-->
-    margin: 60px auto;
-    width: 70%;
 }
 <!--For margins: top, right, bottom, left-->
 
