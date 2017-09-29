@@ -2,7 +2,6 @@ body
 {
     <!--background-image: url('../assets/images/bg-sakuratree.png');-->
     <!--background-attachment: fixed;-->
-    background-color: rgba(128, 128, 128, 1)
     margin: 60px auto;
     width: 70%;
 }
@@ -11,7 +10,7 @@ body
 div.nav-container
 {
     overflow: hidden;
-    background-color: #333;
+    background-color: rgba(0, 0, 0, 1);
 }
 
 div.nav-container a 
