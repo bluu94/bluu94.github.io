@@ -1,6 +1,6 @@
 body 
 {
-    <!-- background-image: url('../assets/images/bg-sakuratree.png'); -->
+    background-image: url('../assets/images/bg-sakuratree.png');
     background-attachment: fixed;
 	background-color: rgba(0, 0, 0, 1;
 }
@@ -8,7 +8,6 @@ body
 
 nav ul, footer ul 
 {
-	background-color: rgba(0, 0, 0, 1);
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     list-style: none;
     font-weight: bold;
