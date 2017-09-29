@@ -3,25 +3,29 @@ body
     background-image: url('../assets/images/bg-sakuratree.png');
     background-attachment: fixed;
 }
+
+
 nav ul, footer ul 
 {
+	background-color: rgba(0, 0, 0, 1);
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     list-style: none;
     font-weight: bold;
 }
-div.container
-{
-    background-color: rgba(255, 255, 255, .75);
-	color: black;
-	margin: 50px 100px 50px 100px ;
 
-	padding: 20px;
-	text-align: left;
-}
 nav ul li, footer ul li 
 {
     display: inline;
     margin-right: 20px;
+}
+
+div.container
+{
+    background-color: rgba(255, 255, 255, .9);
+	color: black;
+	margin: 50px 100px 50px 100px ;
+	padding: 20px;
+	text-align: left;
 }
 
 a 
