@@ -8,8 +8,9 @@ body
 
 div.nav-container
 {
-    overflow: hidden;
+    margin-top: -8px
     background-color: rgba(0, 0, 0, 1);
+    overflow: hidden;
 }
 
 div.nav-container a 
@@ -55,13 +56,13 @@ p
     color: #333;
 }
 
-		div.footer-container
-		{
-			position: absolute;
-			width: 100%;
-			background-color: rgba(106,115,124,1);
-			color: white;
-			margin-right: -8px;
-			margin-left: -8px;
-			text-align: left;
-		}
+div.footer-container
+{
+    position: absolute;
+    width: 100%;
+    background-color: rgba(106,115,124,1);
+    color: white;
+    margin-right: -8px;
+    margin-left: -8px;
+    text-align: left;
+}
