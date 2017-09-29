@@ -12,10 +12,6 @@ div.nav-container
     overflow-x: hidden;
 }
 
-div.nav-container h1
-{
-    margin-top: 0;
-}
 div.nav-container a 
 {
     float: left;
@@ -49,6 +45,7 @@ div.container
 
 h1 
 {
+    margin-top: 0px;
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
